@@ -1,0 +1,12 @@
+C:\Users\yodeb\source\repos\CustodianEverywhereV3\DataStore\obj\Debug\net6.0\DataStore.csproj.AssemblyReference.cache
+C:\Users\yodeb\source\repos\CustodianEverywhereV3\DataStore\obj\Debug\net6.0\DataStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yodeb\source\repos\CustodianEverywhereV3\DataStore\obj\Debug\net6.0\DataStore.AssemblyInfoInputs.cache
+C:\Users\yodeb\source\repos\CustodianEverywhereV3\DataStore\obj\Debug\net6.0\DataStore.AssemblyInfo.cs
+C:\Users\yodeb\source\repos\CustodianEverywhereV3\DataStore\obj\Debug\net6.0\DataStore.csproj.CoreCompileInputs.cache
+C:\Users\yodeb\source\repos\CustodianEverywhereV3\DataStore\bin\Debug\net6.0\DataStore.deps.json
+C:\Users\yodeb\source\repos\CustodianEverywhereV3\DataStore\bin\Debug\net6.0\DataStore.dll
+C:\Users\yodeb\source\repos\CustodianEverywhereV3\DataStore\bin\Debug\net6.0\DataStore.pdb
+C:\Users\yodeb\source\repos\CustodianEverywhereV3\DataStore\obj\Debug\net6.0\DataStore.dll
+C:\Users\yodeb\source\repos\CustodianEverywhereV3\DataStore\obj\Debug\net6.0\refint\DataStore.dll
+C:\Users\yodeb\source\repos\CustodianEverywhereV3\DataStore\obj\Debug\net6.0\DataStore.pdb
+C:\Users\yodeb\source\repos\CustodianEverywhereV3\DataStore\obj\Debug\net6.0\ref\DataStore.dll

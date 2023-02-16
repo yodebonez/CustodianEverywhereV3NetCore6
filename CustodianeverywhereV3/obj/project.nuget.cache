@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "KAMFH069QK45e4sRq54kd1SkhYvqfbD6fHLYKpJs6aXU+auxpiYEln2LkykwYjnn1iyG6KYqUl3SfNL+dClN8w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\yodeb\\source\\repos\\CustodianEverywhereV3\\CustodianeverywhereV3\\CustodianeverywhereV3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yodeb\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\yodeb\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\yodeb\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\yodeb\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\yodeb\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\yodeb\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
